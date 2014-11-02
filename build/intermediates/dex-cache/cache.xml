@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\pre-dexed\debug\classes-27fff651c444753b88712fec00702dfb7ff700f4.jar"
+        jar="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-dae7d541dcfbf018cdbee7cf134de28c45585d8e.jar"
+        jar="D:\Programming\ADT\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-44ec1052223261d203120530db2032e280486eb2.jar"
+        jar="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\pre-dexed\debug\classes-dab9cd770dd65e34629fc476300d144cb4032bc2.jar"
+        jar="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\exploded-aar\drag-sort-gridview-demo\dragsortgridviewlib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="5e7b342e72c91861cba462a9d1340bbbd71546c3"/>
+
+</pre-dex-items>

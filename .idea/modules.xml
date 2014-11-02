@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drag-sort-gridview.iml" filepath="$PROJECT_DIR$/drag-sort-gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragsortgridviewdemo/dragsortgridviewdemo.iml" filepath="$PROJECT_DIR$/dragsortgridviewdemo/dragsortgridviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragsortgridviewlib/dragsortgridviewlib.iml" filepath="$PROJECT_DIR$/dragsortgridviewlib/dragsortgridviewlib.iml" />
+    </modules>
+  </component>
+</project>
+

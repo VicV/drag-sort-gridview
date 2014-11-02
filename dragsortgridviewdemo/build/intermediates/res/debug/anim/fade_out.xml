@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<alpha xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:interpolator="@android:interpolator/accelerate_quad" 
+    android:fromAlpha="1.0"
+    android:toAlpha="0.0"
+    android:duration="@integer/dragged_item_fade_out_duration" 
+    android:fillEnabled="true"
+    android:fillAfter="true"
+/>
+<!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewlib/src/main/res/anim/fade_out.xml --><!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewdemo/build/intermediates/exploded-aar/drag-sort-gridview-demo/dragsortgridviewlib/unspecified/res/anim/fade_out.xml -->
