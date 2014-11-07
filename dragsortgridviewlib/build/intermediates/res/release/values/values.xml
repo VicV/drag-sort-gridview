@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewlib/src/main/res/values/integers.xml -->
+    <!-- From: file:/D:/Programming/libraries/drag-sort-gridview/dragsortgridviewlib/src/main/res/values/integers.xml -->
     <eat-comment />
 
     <integer name="dragged_item_fade_out_duration">150</integer>
-    <!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewlib/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/Programming/libraries/drag-sort-gridview/dragsortgridviewlib/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="app_name">drag-sort-gridview-lib</string>
-    <!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewlib/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/Programming/libraries/drag-sort-gridview/dragsortgridviewlib/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Light">

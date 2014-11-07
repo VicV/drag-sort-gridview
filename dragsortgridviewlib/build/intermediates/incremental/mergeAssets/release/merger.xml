@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\release\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\release\assets" />
     </dataSet>
 
 </merger>

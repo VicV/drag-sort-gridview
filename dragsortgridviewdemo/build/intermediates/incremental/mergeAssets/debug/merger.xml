@@ -2,16 +2,16 @@
 <merger version="2" >
 
     <dataSet config="21.0.0" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewdemo\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\assets" />
     </dataSet>
     <dataSet config="unspecified" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\build\intermediates\exploded-aar\drag-sort-gridview-demo\dragsortgridviewlib\unspecified\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewdemo\build\intermediates\exploded-aar\drag-sort-gridview\dragsortgridviewlib\unspecified\assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\src\main\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewdemo\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewdemo\src\debug\assets" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewdemo\src\debug\assets" />
     </dataSet>
 
 </merger>

@@ -2,45 +2,45 @@
 <merger version="2" >
 
     <dataSet config="21.0.0" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\res" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\res" />
     </dataSet>
     <dataSet config="main" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res" >
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res" >
             <file
                 name="fade_out"
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\anim\fade_out.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\anim\fade_out.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="ic_launcher"
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\drawable-hdpi\ic_launcher.png"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\drawable-hdpi\ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\drawable-mdpi\ic_launcher.png"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\drawable-mdpi\ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\drawable-xhdpi\ic_launcher.png"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\drawable-xhdpi\ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\values\integers.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\values\integers.xml"
                 qualifiers="" >
                 <integer name="dragged_item_fade_out_duration" >
 150
                 </integer>
             </file>
             <file
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\values\strings.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\values\strings.xml"
                 qualifiers="" >
                 <string name="app_name" >drag-sort-gridview-lib
                 </string>
             </file>
             <file
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\values\styles.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\values\styles.xml"
                 qualifiers="" >
 
                 <style
@@ -62,7 +62,7 @@
                 </style>
             </file>
             <file
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\values-v11\styles.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\values-v11\styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -73,7 +73,7 @@
                 </style>
             </file>
             <file
-                path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\main\res\values-v14\styles.xml"
+                path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\main\res\values-v14\styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -84,11 +84,11 @@
                 </style>
             </file>
         </source>
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\build\generated\res\rs\release" />
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\build\generated\res\generated\release" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\build\generated\res\rs\release" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\build\generated\res\generated\release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="D:\Programming\Real Projects\Blink-Android\drag-sort-gridview-demo\dragsortgridviewlib\src\release\res" />
+        <source path="D:\Programming\libraries\drag-sort-gridview\dragsortgridviewlib\src\release\res" />
     </dataSet>
 
 </merger>

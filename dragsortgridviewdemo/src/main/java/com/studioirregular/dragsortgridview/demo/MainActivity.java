@@ -1,9 +1,5 @@
 package com.studioirregular.dragsortgridview.demo;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
@@ -14,9 +10,14 @@ import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import com.studioirregular.dragsortgridview.DragSortGridView;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 public class MainActivity extends Activity {
 
@@ -108,7 +109,7 @@ public class MainActivity extends Activity {
             if (result == null) {
                 final Context context = MainActivity.this;
                 
-                result = new TextView(context);
+                result = new EditText(context);
                 result.setMinHeight(160);
                 result.setBackgroundColor(colors.get(position));
                 result.setTextAppearance(context, android.R.style.TextAppearance_Large);

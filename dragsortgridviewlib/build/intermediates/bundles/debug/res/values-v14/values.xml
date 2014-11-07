@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/D:/Programming/Real%20Projects/Blink-Android/drag-sort-gridview-demo/dragsortgridviewlib/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/D:/Programming/libraries/drag-sort-gridview/dragsortgridviewlib/src/main/res/values-v14/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
